@@ -1,7 +1,9 @@
 Operations management and Information Systems Student @ NIU
 
 Working on:
+
 Maintaining snack-snack.com
+
 Linsight (localInsight): a local AI model built for ERP software
 <!--
 **alfm2245/alfm2245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
